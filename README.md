@@ -716,7 +716,6 @@ When training over the augmented dataset, the model achieved a lower validation 
 
 ### Model Architecture
 
-Create a CNN to classify dog breed.  Use the template in the code cell below.
 
 
 ```python
