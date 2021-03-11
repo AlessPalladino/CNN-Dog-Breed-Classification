@@ -23,8 +23,8 @@ The notebook is splitted into separate steps.  Feel free to use the links below 
 * [Step 2](#step2): Detect Dogs
 * [Step 3](#step3): Create a CNN to Classify Dog Breeds (from Scratch)
 * [Step 4](#step4): Create a CNN to Classify Dog Breeds (using Transfer Learning)
-* [Step 5](#step5): Write the Algorithm
-* [Step 6](#step6): Test the Algorithm
+* [Step 5](#step5): Write your Algorithm
+* [Step 6](#step6): Test Your Algorithm
 
 ---
 <a id='step0'></a>
@@ -93,7 +93,7 @@ plt.show()
 
 
     
-![png](SAMPLE_IMAGES/output_3_1.png)
+![png](README_IMAGES/output_3_1.png)
     
 
 
@@ -150,13 +150,13 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_7_1.png)
+![png](README_IMAGES/output_7_1.png)
     
 
 
 
     
-![png](SAMPLE_IMAGES/output_7_2.png)
+![png](README_IMAGES/output_7_2.png)
     
 
 
@@ -164,13 +164,13 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_7_4.png)
+![png](README_IMAGES/output_7_4.png)
     
 
 
 
     
-![png](SAMPLE_IMAGES/output_7_5.png)
+![png](README_IMAGES/output_7_5.png)
     
 
 
@@ -178,13 +178,13 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_7_7.png)
+![png](README_IMAGES/output_7_7.png)
     
 
 
 
     
-![png](SAMPLE_IMAGES/output_7_8.png)
+![png](README_IMAGES/output_7_8.png)
     
 
 
@@ -192,13 +192,13 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_7_10.png)
+![png](README_IMAGES/output_7_10.png)
     
 
 
 
     
-![png](SAMPLE_IMAGES/output_7_11.png)
+![png](README_IMAGES/output_7_11.png)
     
 
 
@@ -206,13 +206,13 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_7_13.png)
+![png](README_IMAGES/output_7_13.png)
     
 
 
 
     
-![png](SAMPLE_IMAGES/output_7_14.png)
+![png](README_IMAGES/output_7_14.png)
     
 
 
@@ -278,7 +278,7 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_10_2.png)
+![png](README_IMAGES/output_10_2.png)
     
 
 
@@ -287,7 +287,7 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_10_4.png)
+![png](README_IMAGES/output_10_4.png)
     
 
 
@@ -298,7 +298,7 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_10_7.png)
+![png](README_IMAGES/output_10_7.png)
     
 
 
@@ -307,7 +307,7 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_10_9.png)
+![png](README_IMAGES/output_10_9.png)
     
 
 
@@ -318,7 +318,7 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_10_12.png)
+![png](README_IMAGES/output_10_12.png)
     
 
 
@@ -327,7 +327,7 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_10_14.png)
+![png](README_IMAGES/output_10_14.png)
     
 
 
@@ -338,7 +338,7 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_10_17.png)
+![png](README_IMAGES/output_10_17.png)
     
 
 
@@ -347,7 +347,7 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_10_19.png)
+![png](README_IMAGES/output_10_19.png)
     
 
 
@@ -358,7 +358,7 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_10_22.png)
+![png](README_IMAGES/output_10_22.png)
     
 
 
@@ -367,7 +367,7 @@ for human, dog in tqdm(zip(human_files_short, dog_files_short), total = 100):
 
 
     
-![png](SAMPLE_IMAGES/output_10_24.png)
+![png](README_IMAGES/output_10_24.png)
     
 
 
@@ -565,19 +565,19 @@ for idx in failed_dogs:
 
 
     
-![png](SAMPLE_IMAGES/output_27_0.png)
+![png](README_IMAGES/output_27_0.png)
     
 
 
 
     
-![png](SAMPLE_IMAGES/output_27_1.png)
+![png](README_IMAGES/output_27_1.png)
     
 
 
 
     
-![png](SAMPLE_IMAGES/output_27_2.png)
+![png](README_IMAGES/output_27_2.png)
     
 
 
@@ -697,7 +697,7 @@ for idx in np.arange(20):
 
 
     
-![png](SAMPLE_IMAGES/output_31_1.png)
+![png](README_IMAGES/output_31_1.png)
     
 
 
@@ -1830,7 +1830,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_1.png)
+![png](README_IMAGES/output_65_1.png)
     
 
 
@@ -1839,7 +1839,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_3.png)
+![png](README_IMAGES/output_65_3.png)
     
 
 
@@ -1848,7 +1848,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_5.png)
+![png](README_IMAGES/output_65_5.png)
     
 
 
@@ -1857,7 +1857,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_7.png)
+![png](README_IMAGES/output_65_7.png)
     
 
 
@@ -1866,7 +1866,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_9.png)
+![png](README_IMAGES/output_65_9.png)
     
 
 
@@ -1875,7 +1875,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_11.png)
+![png](README_IMAGES/output_65_11.png)
     
 
 
@@ -1884,7 +1884,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_13.png)
+![png](README_IMAGES/output_65_13.png)
     
 
 
@@ -1893,7 +1893,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_15.png)
+![png](README_IMAGES/output_65_15.png)
     
 
 
@@ -1902,7 +1902,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_17.png)
+![png](README_IMAGES/output_65_17.png)
     
 
 
@@ -1911,7 +1911,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_19.png)
+![png](README_IMAGES/output_65_19.png)
     
 
 
@@ -1920,7 +1920,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_21.png)
+![png](README_IMAGES/output_65_21.png)
     
 
 
@@ -1929,7 +1929,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_23.png)
+![png](README_IMAGES/output_65_23.png)
     
 
 
@@ -1938,7 +1938,7 @@ for file in my_files:
 
 
     
-![png](SAMPLE_IMAGES/output_65_25.png)
+![png](README_IMAGES/output_65_25.png)
     
 
 
