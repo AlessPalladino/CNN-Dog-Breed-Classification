@@ -2,7 +2,7 @@
 
 ## Project: Write an Algorithm for a Dog Identification App 
 
-
+This is a project part of DeepLearning Nanodegree provided by Udacity.
 
 ---
 ### Why We're Here 
